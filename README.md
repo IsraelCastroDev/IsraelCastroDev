@@ -38,7 +38,7 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Logro de Github 🏆</h2>
+<h2 align="center">🏆 Logros de Github 🏆</h2>
 <p align="center">
   <a href="https://github.com/IsraelCastroDev/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=IsraelCastroDev&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
@@ -47,12 +47,12 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Estadísticas de Github 📊</h2>
+<h2 align="center">📊 Estadísticas 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Estadísticas de GitHub</strong></h3>
       <p align="center">
         <a href="https://github.com/IsraelCastroDev">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelCastroDev&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -60,7 +60,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Estadísticas de Rachas</strong></h3>
       <p align="center">
         <a href="https://github.com/IsraelCastroDev">
           <img align="center" src="https://streak-stats.demolab.com?user=IsraelCastroDev&theme=nightowl" alt="Streak Stats" />
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Último proyectos</strong></h3>
+      <h3 align="center"><strong>Último proyecto</strong></h3>
       <p align="center">
         <a href="https://github.com/IsraelCastroDev/cryptos">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelCastroDev&repo=flashvideo&theme=nightowl&show_owner=true" alt="Cryptos Project" />
@@ -78,7 +78,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Principales Contribuciones</strong></h3>
       <p align="center">
         <a href="https://github.com/IsraelCastroDev">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=IsraelCastroDev&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
