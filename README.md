@@ -111,12 +111,12 @@
 
 <h2 align="center">🤝 Contáctame 🤝 </h2>
 <div align="center">
- <a href=www.linkedin.com/in/juan-castro-chozo target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ <a href="https://www.linkedin.com/in/juan-castro-chozo" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:israelcastro.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=israelcastro.dev7@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="israelcastro.dev@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 </div>
