@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Últimos proyectos</strong></h3>
+      <h3 align="center"><strong>Último proyectos</strong></h3>
       <p align="center">
         <a href="https://github.com/IsraelCastroDev/cryptos">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelCastroDev&repo=flashvideo&theme=nightowl&show_owner=true" alt="Cryptos Project" />
@@ -98,18 +98,18 @@
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>-->
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
+<!--     <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p> -->
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Contáctame 🤝 </h2>
 <div align="center">
  <a href="www.linkedin.com/in/juan-castro-chozo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -117,10 +117,6 @@
   
 <a href="mailto:israelcastro.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=israelcastro.dev7@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>
