@@ -1,124 +1,163 @@
-<!--Banner-->
-<!--![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)-->
+<!-- Header -->
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+<div align="center">
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola, Soy Israel Castro! 
-*Desarrollador Frontend*
-<br /> 
+# 👋 Hola, soy Israel Castro
 
-<!--Start Intro-->               
-<p align="left">Soy un desarrollador apasionado por el desarrollo web y el aprendizaje constante. Me encanta crear aplicaciones funcionales y estéticamente agradables utilizando tecnologías modernas como React, TypeScript y más.
-</p>
+### 💻 Desarrollador Web
 
-- ✨ Buscando nuevas oportunidades :)
-- 🌱 Siempre aprendiendo..
-- 💻 Visita mi [Portfolio](https://israelcastro.vercel.app).
-<!--End Intro-->
+Desarrollador web con **1 año de experiencia** creando aplicaciones y soluciones web modernas, funcionales y escalables.
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IsraelCastroDev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="IsraelCastroDev" style="padding-right:20px;" />
-</p>
+Especializado principalmente en **JavaScript, React, TypeScript y Node.js**, con interés constante en seguir creciendo tanto en frontend como en backend.
 
----
-<br />
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lenguajes y herramientas</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,ts,git,vscode&perline=10"  />
-</p>
-<br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Logros de Github 🏆</h2>
-<p align="center">
-  <a href="https://github.com/IsraelCastroDev/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=IsraelCastroDev&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+<p>
+  <a href="https://israelcastro.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-castro-chozo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:israelcastro.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-<br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Estadísticas 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Estadísticas de GitHub</strong></h3>
-      <p align="center">
-        <a href="https://github.com/IsraelCastroDev">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelCastroDev&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Estadísticas de Rachas</strong></h3>
-      <p align="center">
-        <a href="https://github.com/IsraelCastroDev">
-          <img align="center" src="https://streak-stats.demolab.com?user=IsraelCastroDev&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Principales Contribuciones</strong></h3>
-      <p align="center">
-        <a href="https://github.com/IsraelCastroDev">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=IsraelCastroDev&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Gráfico de Contribuciones 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelCastroDev&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<!--<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>-->
+## 👨‍💻 Sobre mí
 
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-<!--     <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p> -->
-<!--ENDS_HERE_QUOTE_CARD-->
+Soy un **Desarrollador Web** apasionado por la tecnología y el desarrollo de aplicaciones.
 
+Durante mi experiencia profesional he trabajado en proyectos web utilizando tecnologías del ecosistema **JavaScript**, participando tanto en el desarrollo de interfaces como en la implementación de funcionalidades del lado del servidor.
 
-<!--Contact Section--> 
+Me interesa especialmente construir aplicaciones que sean:
 
-<h2 align="center">🤝 Contáctame 🤝 </h2>
+* 🚀 Rápidas y eficientes
+* 🧩 Escalables y mantenibles
+* 🎨 Intuitivas y agradables de usar
+* 🔐 Seguras y bien estructuradas
+* 📱 Adaptables a diferentes dispositivos
+
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo **Full Stack**, explorando tecnologías como **Node.js, Express, NestJS y Next.js**.
+
+* 💼 1 año de experiencia en desarrollo web
+* ⚛️ Enfocado en el ecosistema JavaScript
+* 🌱 Aprendizaje y mejora continua
+* 🔎 Interesado en nuevas oportunidades profesionales
+* 🛠️ Apasionado por resolver problemas mediante código
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&perline=6" />
+</p>
+
+### Herramientas y tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql,postgres,firebase&perline=7" />
+</p>
+
+---
+
+## 💻 Stack principal
+
+| Área               | Tecnologías                              |
+| ------------------ | ---------------------------------------- |
+| **Frontend**       | React, JavaScript, TypeScript, HTML, CSS |
+| **Backend**        | Node.js, Express, NestJS                 |
+| **Frameworks**     | Next.js                                  |
+| **Bases de datos** | MySQL, PostgreSQL                        |
+| **Herramientas**   | Git, GitHub, Docker, VS Code             |
+| **Otros**          | REST APIs, Axios, Firebase               |
+
+---
+
+## 📊 Estadísticas de GitHub
+
 <div align="center">
- <a href="https://www.linkedin.com/in/juan-castro-chozo" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IsraelCastroDev&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=IsraelCastroDev&theme=nightowl&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-contributor-stats.vercel.app/api?username=IsraelCastroDev&limit=5&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelCastroDev&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Actualmente
+
+Estoy enfocado en seguir creciendo como **Desarrollador Web**, profundizando especialmente en:
+
+* ⚛️ React y su ecosistema
+* 🟦 TypeScript
+* 🟢 Node.js y Express
+* 🏗️ NestJS
+* ▲ Next.js
+* 🐳 Docker
+* 🗄️ Diseño y manejo de bases de datos
+* 🔌 Desarrollo y consumo de APIs REST
+
+Mi objetivo es continuar adquiriendo experiencia desarrollando productos reales y participar en proyectos donde pueda aportar valor mientras sigo evolucionando técnicamente.
+
+---
+
+## 🤝 Contáctame
+
+<div align="center">
+
+<a href="https://israelcastro.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-  
-<a href="mailto:israelcastro.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="israelcastro.dev@gmail.com" style="margin-bottom: 5px;" />
+
+<a href="https://www.linkedin.com/in/juan-castro-chozo">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:israelcastro.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<!--Footer--> 
+<br>
+
+<div align="center">
+
+### ⭐ Gracias por visitar mi perfil
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-------
-
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
-Last Edited on: 29/11/2023
